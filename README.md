@@ -2,6 +2,8 @@
 ### Développement Mobile Android — Java
 
 ---
+<img width="371" height="684" alt="demo_compressed" src="https://github.com/user-attachments/assets/85e0f4c9-e835-474b-b788-54a95ee055e7" />
+
 
 ## 📋 Description
 
